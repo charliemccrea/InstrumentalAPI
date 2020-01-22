@@ -23,7 +23,7 @@
       <v-spacer></v-spacer>
 
       <v-btn
-        href="https://github.com/"
+        href="https://github.com/charliemccrea/InstrumentalAPI"
         target="_blank"
         text
       >
