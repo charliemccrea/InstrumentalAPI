@@ -2,15 +2,18 @@
 
 # InstrumentalAPI
 
-InstrumentalAPI is a Web App designed as practice for interacting with an ASP.NET Core API using vue.js as a front-end interface.  It involves adding various musical instruments to an in-memory sql database using HTTP requests.
+InstrumentalAPI is a Web App designed as practice for interacting with an ASP.NET Core API using a front-end interface built on vue.js.  It involves adding various musical instruments to an in-memory sql database using HTTP requests.
 
 ## Prerequisites
 
-In order to use the InstrumentAPI, you will need to ensure you have the following dependencies:
+In order to use the InstrumentAPI, you will need to ensure you have the following installed:
 
 [Visual Studio](https://visualstudio.microsoft.com/)
+
 [Node.js](https://nodejs.org/en/)
+
 [Vue CLI](https://cli.vuejs.org/)
+
 [Git](https://git-scm.com/)
 
 ## Installation
